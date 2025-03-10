@@ -47,7 +47,5 @@ function navigateToWeek() {
     contentFrame.src = 'https://www.et.tku.edu.tw/';
   } else if (weekSelect === 'week3') {
     contentFrame.src = 'https://hackmd.io/@jjjjiu/S1fSMKGs1x';
-  } else (weekSelect === 'week4') {
-    contentFrame.src = 'https://jjiu888.github.io/20250310/;
   }
 }
